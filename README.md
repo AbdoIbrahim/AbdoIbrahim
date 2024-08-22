@@ -7,7 +7,7 @@
  - 💻 I am a Data Scientist with a strong interest in advancing the field of Machine Learning and Data Science.
  - 🌱 I’m currently learning Data Analytics, Data Science and Machine Learning
  - 🤖 I'm looking to collabrate on Machine Learning projects and LLMs (Languge Learning Models) 
- - 📫 To reach out to me pleasesend me an email @ abdelhameadibrahim@gmail.com
+ - 📫 To reach out to me please send me an email @ abdelhameadibrahim@gmail.com
  - ☕️ In my free time a enjoy brewing a cup of coffee 
 
 <!--
